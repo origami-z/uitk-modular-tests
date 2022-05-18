@@ -49,6 +49,7 @@
     "@types/react-dom": "^18.0.4",
     "eslint-config-modular-app": "^3.0.0",
     "modular-scripts": "^3.0.1",
+    "modular-template-uitk-app": "^0.0.2",
     "prettier": "^2.6.2",
     "react": "^18.1.0",
     "react-dom": "^18.1.0",

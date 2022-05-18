@@ -1,0 +1,11 @@
+body {
+  overflow-x: hidden;
+  margin: 0;
+  padding: 0;
+}
+
+.AbsoluteButton {
+  position: absolute;
+  left: 0;
+  top: 0;
+}
