@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ca63528d.css",
+    "main.js": "/static/js/main.05ff7080.js",
+    "runtime-main.js": "/static/js/runtime-main.e456d2e8.js",
+    "static/media/OpenSans-Bold.ttf": "/static/media/OpenSans-Bold.dbb97fd9..ttf",
+    "static/media/OpenSans-ExtraBold.ttf": "/static/media/OpenSans-ExtraBold.110e781b..ttf",
+    "static/media/OpenSans-Light.ttf": "/static/media/OpenSans-Light.ed41bedf..ttf",
+    "static/media/OpenSans-Semibold.ttf": "/static/media/OpenSans-Semibold.a16d8201..ttf",
+    "static/media/OpenSans-Regular.ttf": "/static/media/OpenSans-Regular.1b0809d5..ttf",
+    "static/media/OpenSans-ExtraBoldItalic.ttf": "/static/media/OpenSans-ExtraBoldItalic.4014c919..ttf",
+    "static/media/OpenSans-BoldItalic.ttf": "/static/media/OpenSans-BoldItalic.9572470e..ttf",
+    "static/media/OpenSans-LightItalic.ttf": "/static/media/OpenSans-LightItalic.0e63c9e7..ttf",
+    "static/media/OpenSans-Italic.ttf": "/static/media/OpenSans-Italic.20653d2f..ttf",
+    "static/media/OpenSans-SemiboldItalic.ttf": "/static/media/OpenSans-SemiboldItalic.63afadba..ttf",
+    "index.html": "/index.html",
+    "main.ca63528d.css.map": "/static/css/main.ca63528d.css.map",
+    "main.05ff7080.js.map": "/static/js/main.05ff7080.js.map",
+    "runtime-main.e456d2e8.js.map": "/static/js/runtime-main.e456d2e8.js.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e456d2e8.js",
+    "static/css/main.ca63528d.css",
+    "static/js/main.05ff7080.js"
+  ]
+}
