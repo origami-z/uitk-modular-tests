@@ -10,5 +10,6 @@
     "@jpmorganchase/uitk-lab": "latest",
     "@jpmorganchase/uitk-theme": "latest"
   },
-  "version": "1.0.0"
+  "version": "1.0.0",
+  "homepage": "https://origami-z.github.io/uitk-modular-tests/"
 }
