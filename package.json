@@ -9,7 +9,7 @@
     "@jpmorganchase/uitk-core": "latest",
     "@jpmorganchase/uitk-icons": "latest",
     "@jpmorganchase/uitk-lab": "latest",
-    "react-dom": "^18.1.0",
-    "@jpmorganchase/uitk-theme": "latest"
+    "@jpmorganchase/uitk-theme": "latest",
+    "react-dom": "^18.1.0"
   }
 }
