@@ -8,7 +8,7 @@ const App = () => {
     <div>
       <Panel>
         <Card>
-          <h1>Is the button at the top left?</h1>
+          <h1>Is the button at the top right of the page?</h1>
         </Card>
       </Panel>
       <Panel>
