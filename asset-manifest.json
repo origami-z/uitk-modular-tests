@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/uitk-modular-tests/static/css/main.463fe239.css",
-    "main.js": "/uitk-modular-tests/static/js/main.badf3789.js",
+    "main.css": "/uitk-modular-tests/static/css/main.0718f2f3.css",
+    "main.js": "/uitk-modular-tests/static/js/main.2f842fab.js",
     "runtime-main.js": "/uitk-modular-tests/static/js/runtime-main.e456d2e8.js",
     "static/media/OpenSans-Bold.ttf": "/uitk-modular-tests/static/media/OpenSans-Bold.dbb97fd9..ttf",
     "static/media/OpenSans-ExtraBold.ttf": "/uitk-modular-tests/static/media/OpenSans-ExtraBold.110e781b..ttf",
@@ -14,13 +14,13 @@
     "static/media/OpenSans-Italic.ttf": "/uitk-modular-tests/static/media/OpenSans-Italic.20653d2f..ttf",
     "static/media/OpenSans-SemiboldItalic.ttf": "/uitk-modular-tests/static/media/OpenSans-SemiboldItalic.63afadba..ttf",
     "index.html": "/uitk-modular-tests/index.html",
-    "main.463fe239.css.map": "/uitk-modular-tests/static/css/main.463fe239.css.map",
-    "main.badf3789.js.map": "/uitk-modular-tests/static/js/main.badf3789.js.map",
+    "main.0718f2f3.css.map": "/uitk-modular-tests/static/css/main.0718f2f3.css.map",
+    "main.2f842fab.js.map": "/uitk-modular-tests/static/js/main.2f842fab.js.map",
     "runtime-main.e456d2e8.js.map": "/uitk-modular-tests/static/js/runtime-main.e456d2e8.js.map"
   },
   "entrypoints": [
     "static/js/runtime-main.e456d2e8.js",
-    "static/css/main.463fe239.css",
-    "static/js/main.badf3789.js"
+    "static/css/main.0718f2f3.css",
+    "static/js/main.2f842fab.js"
   ]
 }
