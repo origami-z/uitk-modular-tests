@@ -11,8 +11,9 @@
     "type": "root"
   },
   "scripts": {
-    "start": "modular start",
-    "build": "modular build",
+    "start": "modular start uitk-app",
+    "build": "modular build uitk-app",
+    "serve": "modular serve uitk-app",
     "test": "modular test",
     "lint": "eslint . --ext .js,.ts,.tsx",
     "prettier": "prettier --write ."
